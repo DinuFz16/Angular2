@@ -1,0 +1,24 @@
+form
+{
+    font-style: italic;
+    border: 1px solid green;
+    text-align: center;
+
+}
+
+.color
+{
+    background-color: aqua;
+    
+    
+}
+
+.font
+{
+    font-style: italic;
+}
+
+.back
+{
+    font-family: 'Times New Roman', Times, serif;
+}
